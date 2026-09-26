@@ -6,7 +6,6 @@ This project analyzes global data-related job salaries from an HR perspective an
 The goal is to help HR professionals:
 - Understand salary trends in the data field
 - Compare roles, experience levels, and company factors
-- Estimate fair salary ranges for candidates
 
 ---
 
